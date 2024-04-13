@@ -1440,6 +1440,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mondrian/proprietary/vendor/lib/libcneapiclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcneapiclient.so \
     vendor/xiaomi/mondrian/proprietary/vendor/lib/libcneoplookup.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcneoplookup.so \
     vendor/xiaomi/mondrian/proprietary/vendor/lib/libcneqmiutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcneqmiutils.so \
+    vendor/xiaomi/mondrian/proprietary/vendor/lib/libcodec2_hidl@1.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_hidl@1.0_vendor.so \
+    vendor/xiaomi/mondrian/proprietary/vendor/lib/libcodec2_vndk_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcodec2_vndk_vendor.so \
     vendor/xiaomi/mondrian/proprietary/vendor/lib/libcolortempmode.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcolortempmode.so \
     vendor/xiaomi/mondrian/proprietary/vendor/lib/libconfigdb.so:$(TARGET_COPY_OUT_VENDOR)/lib/libconfigdb.so \
     vendor/xiaomi/mondrian/proprietary/vendor/lib/libcpion.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcpion.so \
@@ -2530,6 +2532,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mondrian/proprietary/vendor/lib64/libgralloc.qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgralloc.qti.so \
     vendor/xiaomi/mondrian/proprietary/vendor/lib64/libgralloccore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgralloccore.so \
     vendor/xiaomi/mondrian/proprietary/vendor/lib64/libgrallocutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgrallocutils.so \
+    vendor/xiaomi/mondrian/proprietary/vendor/lib64/libgrpc++_unsecure.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgrpc++_unsecure.so \
     vendor/xiaomi/mondrian/proprietary/vendor/lib64/libgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgsl.so \
     vendor/xiaomi/mondrian/proprietary/vendor/lib64/libhalide_hexagon_host.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhalide_hexagon_host.so \
     vendor/xiaomi/mondrian/proprietary/vendor/lib64/libhdr10plus.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhdr10plus.so \
