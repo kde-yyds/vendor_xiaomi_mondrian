@@ -1147,10 +1147,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mondrian/proprietary/vendor/etc/vibrator/effect_3.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_3.bin \
     vendor/xiaomi/mondrian/proprietary/vendor/etc/vibrator/effect_4.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_4.bin \
     vendor/xiaomi/mondrian/proprietary/vendor/etc/vibrator/effect_5.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_5.bin \
-    vendor/xiaomi/mondrian/proprietary/vendor/etc/vibrator/effect_6.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_6.bin \
-    vendor/xiaomi/mondrian/proprietary/vendor/etc/vibrator/effect_7.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_7.bin \
-    vendor/xiaomi/mondrian/proprietary/vendor/etc/vibrator/effect_8.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_8.bin \
-    vendor/xiaomi/mondrian/proprietary/vendor/etc/vibrator/effect_9.bin:$(TARGET_COPY_OUT_VENDOR)/etc/vibrator/effect_9.bin \
     vendor/xiaomi/mondrian/proprietary/vendor/firmware/CAMERA_ICP.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b00 \
     vendor/xiaomi/mondrian/proprietary/vendor/firmware/CAMERA_ICP.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b01 \
     vendor/xiaomi/mondrian/proprietary/vendor/firmware/CAMERA_ICP.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b02 \

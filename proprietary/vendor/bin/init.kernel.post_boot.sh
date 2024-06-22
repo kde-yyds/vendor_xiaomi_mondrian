@@ -193,6 +193,8 @@ esac
 
 ProductName=`getprop ro.product.name`
 if [ "$ProductName" == "liuqin" ] || [ "$ProductName" == "yudi" ]; then
+	echo 0 > /sys/block/zram0/memory_freeze
 	sleep 600
+	echo 1 > /sys/block/zram0/memory_freeze
 	echo 100 > /proc/sys/vm/swappiness
 fi
