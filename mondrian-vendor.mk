@@ -3100,6 +3100,7 @@ PRODUCT_PACKAGES += \
     qcrilhook \
     vendor.qti.hardware.alarm-V1.0-java \
     vendor.qti.ims.connection-V1.0-java \
+    vendor.qti.ims.connectionaidlservice-V1-java \
     vendor.qti.ims.factory-V2.0-java \
     vendor.qti.ims.factory-V2.1-java \
     vendor.qti.ims.factory-V2.2-java \
@@ -3112,37 +3113,37 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.rcsuce-V1.1-java \
     vendor.qti.ims.rcsuce-V1.2-java \
     vendor.qti.ims.rcsuceaidlservice-V1-java \
-    android.hardware.graphics.mapper-impl-qti-display \
-    android.hardware.security.keymint-service-qti-rkp \
-    android.hardware.wifi@1.0-service \
-    c2_manifest_vendor \
-    c2_manifest_vendor_audio \
-    dataconnection-saidl \
-    manifest_android.hardware.drm@1.4-service.clearkey \
-    manifest_android.hardware.drm@1.4-service.widevine \
-    manifest_lahaina_identity \
-    manifest_non_qmaa \
-    manifest_non_qmaa_extn \
-    manifest_vendor.dolby.hardware.dms \
-    manifest_vendor.xiaomi.hardware.mfidoca \
-    manifest_vendor.xiaomi.hardware.mlipay \
-    manifest_vendor.xiaomi.hardware.mtdservice \
-    manifest_vendor.xiaomi.hardware.tidaservice \
-    qtiradio-saidl \
-    vendor.qti.diag.hal.service \
-    vendor.qti.gnss-service \
-    vendor.qti.hardware.display.allocator-service \
-    vendor.qti.hardware.display.composer-service \
-    vendor.qti.hardware.perf \
-    vendor.qti.hardware.power.powermodule \
-    vendor.qti.hardware.qconfig@1.0-service \
-    vendor.qti.hardware.qxr-service \
-    vendor.qti.hardware.radio.ims \
-    vendor.qti.hardware.servicetracker@1.2-service \
-    vendor.qti.hardware.vpp@2.0-service \
-    vendor.qti.hardware.wifi.wificfr@1.0-service \
-    vendor.xiaomi.hardware.displayfeature@1.0-service \
-    vendor.xiaomi.hardware.micharge@1.0 \
-    vendor.xiaomi.hardware.quickcamera@1.0-service \
-    vendor.xiaomi.sensor.citsensorservice@2.0-service \
-    vendor.xiaomi.sensor.communicate@1.0_manifest
+    android.hardware.graphics.mapper-impl-qti-display.xml \
+    android.hardware.security.keymint-service-qti-rkp.xml \
+    android.hardware.wifi@1.0-service.xml \
+    c2_manifest_vendor.xml \
+    c2_manifest_vendor_audio.xml \
+    dataconnection-saidl.xml \
+    manifest_android.hardware.drm@1.4-service.clearkey.xml \
+    manifest_android.hardware.drm@1.4-service.widevine.xml \
+    manifest_lahaina_identity.xml \
+    manifest_non_qmaa.xml \
+    manifest_non_qmaa_extn.xml \
+    manifest_vendor.dolby.hardware.dms.xml \
+    manifest_vendor.xiaomi.hardware.mfidoca.xml \
+    manifest_vendor.xiaomi.hardware.mlipay.xml \
+    manifest_vendor.xiaomi.hardware.mtdservice.xml \
+    manifest_vendor.xiaomi.hardware.tidaservice.xml \
+    qtiradio-saidl.xml \
+    vendor.qti.diag.hal.service.xml \
+    vendor.qti.gnss-service.xml \
+    vendor.qti.hardware.display.allocator-service.xml \
+    vendor.qti.hardware.display.composer-service.xml \
+    vendor.qti.hardware.perf.xml \
+    vendor.qti.hardware.power.powermodule.xml \
+    vendor.qti.hardware.qconfig@1.0-service.xml \
+    vendor.qti.hardware.qxr-service.xml \
+    vendor.qti.hardware.radio.ims.xml \
+    vendor.qti.hardware.servicetracker@1.2-service.xml \
+    vendor.qti.hardware.vpp@2.0-service.xml \
+    vendor.qti.hardware.wifi.wificfr@1.0-service.xml \
+    vendor.xiaomi.hardware.displayfeature@1.0-service.xml \
+    vendor.xiaomi.hardware.micharge@1.0.xml \
+    vendor.xiaomi.hardware.quickcamera@1.0-service.xml \
+    vendor.xiaomi.sensor.citsensorservice@2.0-service.xml \
+    vendor.xiaomi.sensor.communicate@1.0_manifest.xml
